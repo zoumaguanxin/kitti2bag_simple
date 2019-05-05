@@ -1,0 +1,4 @@
+[Project]
+Name=kitti2bag_simple
+Manager=KDevCMakeManager
+VersionControl=kdevgit
